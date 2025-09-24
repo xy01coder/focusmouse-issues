@@ -1,11 +1,1 @@
 blank_issues_enabled: false
-contact_links:
-  - name: 📧 Email Support / 邮件支持
-    url: mailto:xycoder@163.com
-    about: 如果需要私密的技术支持，请发送邮件 / For private technical support, please send an email
-  - name: 🛠️ Technical Support / 技术支持
-    url: https://xy01coder.github.io/support/support.html
-    about: 查看常见问题解决方案和故障排除指南 / View common solutions and troubleshooting guides
-  - name: 🔒 Privacy Policy / 隐私政策
-    url: https://xy01coder.github.io/privacy/focusmouse.html
-    about: 了解我们如何保护您的隐私 / Learn how we protect your privacy
